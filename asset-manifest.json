@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-messageMe/static/css/main.e6a513dd.chunk.css",
+    "main.js": "/react-messageMe/static/js/main.a4cb27d1.chunk.js",
+    "main.js.map": "/react-messageMe/static/js/main.a4cb27d1.chunk.js.map",
+    "runtime-main.js": "/react-messageMe/static/js/runtime-main.072a101f.js",
+    "runtime-main.js.map": "/react-messageMe/static/js/runtime-main.072a101f.js.map",
+    "static/js/2.dbb9a6dd.chunk.js": "/react-messageMe/static/js/2.dbb9a6dd.chunk.js",
+    "static/js/2.dbb9a6dd.chunk.js.map": "/react-messageMe/static/js/2.dbb9a6dd.chunk.js.map",
+    "index.html": "/react-messageMe/index.html",
+    "static/css/main.e6a513dd.chunk.css.map": "/react-messageMe/static/css/main.e6a513dd.chunk.css.map",
+    "static/js/2.dbb9a6dd.chunk.js.LICENSE.txt": "/react-messageMe/static/js/2.dbb9a6dd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.072a101f.js",
+    "static/js/2.dbb9a6dd.chunk.js",
+    "static/css/main.e6a513dd.chunk.css",
+    "static/js/main.a4cb27d1.chunk.js"
+  ]
+}
